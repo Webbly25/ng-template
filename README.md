@@ -1,3 +1,6 @@
+The default ng config, except with eslint and prettier already configured.
+This uses SCSS for it's CSS.
+
 # NgTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
